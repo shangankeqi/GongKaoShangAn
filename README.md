@@ -5,11 +5,11 @@
 ## 笔试
 
 ### 行测
-* [常识判断](#常识判断.md)
-* [言语理解与表达](#言语理解与表达.md)
-* [数量关系](#数量关系.md)
-* [判断推理](#判断推理.md)
-* [资料分析](#资料分析.md)
+* [常识判断](#changshipanduan.md)
+* [言语理解与表达](#yanyulijieyubiaoda.md)
+* [数量关系](#shuliangguanxi.md)
+* [判断推理](#panduantuili.md)
+* [资料分析](#ziliaofenxi.md)
 
 ### 申论
 
